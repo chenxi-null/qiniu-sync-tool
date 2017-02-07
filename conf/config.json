@@ -1,0 +1,6 @@
+{
+  "sync-dir": "D:/ChenXi/Pictures/qiniu-sync",
+  "pshell": "D:/dev/cloud/qshell/qshell.exe",
+  "bucket": "chenxi-images",
+  "domain": "http://ok8f6sztd.bkt.clouddn.com"
+}
